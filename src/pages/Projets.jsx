@@ -26,7 +26,7 @@ function Projets() {
           {
             titre: "Mon portfolio",
             description: "Vous trouverez tous mes formulaires dans ce site.",
-            lien: "https://portfolio-react-beryl-chi.vercel.app",
+            lien: "https://fjuliannanic.vercel.app",
           },
           {
             titre: "E-commerce",

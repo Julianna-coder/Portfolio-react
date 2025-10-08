@@ -66,7 +66,7 @@ function Apropos() {
         </a>
 
         <a
-          href="https://www.facebook.com/fifalianarivonjisoa.julianna.nicole"
+          href="https://www.facebook.com/nicole.julianna"
           target="_blank"
           rel="noopener noreferrer"
           className="

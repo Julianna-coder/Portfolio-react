@@ -26,7 +26,7 @@ function Footer() {
         </Link>
 
         <Link
-          to="https://www.facebook.com/fifalianarivonjisoa.julianna.nicole"
+          to="https://www.facebook.com/nicole.julianna"
           target="_blank"
           className="p-3 rounded-full bg-white/10 hover:bg-white/20 
                      transition transform hover:scale-110 dark:bg-gray-700 dark:hover:bg-gray-600"
