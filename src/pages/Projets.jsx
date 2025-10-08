@@ -26,7 +26,7 @@ function Projets() {
           {
             titre: "Mon portfolio",
             description: "Vous trouverez tous mes formulaires dans ce site.",
-            lien: "https://julianna-coder.github.io/Julianna_porfolio",
+            lien: "https://portfolio-react-beryl-chi.vercel.app",
           },
           {
             titre: "E-commerce",
@@ -45,6 +45,12 @@ function Projets() {
             description:
               "Sur ce site, il y a tous les projets que je fais avec leurs explications de fonctionnement.",
             lien: "https://blog-livid-eta-52.vercel.app",
+          },
+          {
+            titre: "Restaurant",
+            description:
+              "Cet un site de commande de repas en ligne ou réserver de table dans un restaurant.",
+            lien: "https://restaurant-steel-one.vercel.app",
           },
         ].map((projet, index) => (
           <div
